@@ -1,1 +1,1 @@
-This is status file.
+This is status file.Contains status information.
