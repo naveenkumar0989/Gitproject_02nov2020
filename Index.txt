@@ -1,1 +1,2 @@
 This index file.
+This file contains information about index
